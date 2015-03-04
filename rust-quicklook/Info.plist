@@ -11,7 +11,8 @@
 			<string>QLGenerator</string>
 			<key>LSItemContentTypes</key>
 			<array>
-				<string>SUPPORTED_UTI_TYPE</string>
+				<string>org.rust-lang.rust</string>
+				<string>dyn.ah62d4rv4ge81e62</string>
 			</array>
 		</dict>
 	</array>
@@ -59,5 +60,25 @@
 	<false/>
 	<key>QLThumbnailMinimumSize</key>
 	<real>17</real>
+	<key>UTImportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>Rust document</string>
+			<key>UTTypeIdentifier</key>
+			<string>org.rust-lang.rust</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>rs</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
